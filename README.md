@@ -1,9 +1,9 @@
 ## Hola Mundo 👋
 ⚡ Estudiante de la UCE\
 🤔 Ingeniería en Sistemas\
-🌱 Cursando Cuarto y Quinto Semestre
+🌱 Cursando Cuarto y Quinto Semestre\
 
-
+![Perrito](https://giphy.com/gifs/what-confused-question-nIHzyvEoIjD0DenFZq)
 
 
 <!--
