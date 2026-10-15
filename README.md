@@ -29,7 +29,11 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
 ### 📈 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.api/api/top-langs/?username=paulcc18&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.api/api?username=paulcc18&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulcc18&theme=radical" alt="Racha en GitHub" />
 </p>
 
 ---
