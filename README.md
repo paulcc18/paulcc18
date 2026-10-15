@@ -1,5 +1,5 @@
 ## Hi there 👋
-Estudiante de la PUCE 
+Estudiante de la PUCE\
 Miembro de la CPC
 
 <!--
