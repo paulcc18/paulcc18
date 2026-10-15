@@ -6,11 +6,11 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente estoy estudiando en **Universidad Central del Ecuador**.
+- 🔭 Actualmente estoy estudiando en la **Universidad Central del Ecuador**.
 - 🌱 Estoy aprendiendo sobre **Algoritmos y Almacenaje de Datos**.
+- ⚽ Fan del Futbol
+- ✈️ Quiero viajar por el mundo
 - 📫 ¿Cómo contactarme? Escríbeme a **gpc1808@gmail.com**.
-- ⚽ Fan del Futbol 
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
