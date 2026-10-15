@@ -6,7 +6,7 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente estoy estudiando en **[Universidad Central del Ecuador]**.
+- 🔭 Actualmente estoy estudiando en **Universidad Central del Ecuador**.
 - 🌱 Estoy aprendiendo sobre **[Tecnología o habilidad que estés estudiando]**.
 - 👯 Busco colaborar en proyectos de código abierto relacionados con **[Área de interés]**.
 - 💬 Pregúntame sobre **[Tema en el que seas experto, ej. JavaScript, APIs REST, Bases de Datos]**.
