@@ -9,6 +9,7 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
 - 🔭 Actualmente estoy estudiando en **Universidad Central del Ecuador**.
 - 🌱 Estoy aprendiendo sobre **Algoritmos y Almacenaje de Datos**.
 - 📫 ¿Cómo contactarme? Escríbeme a **gpc1808@gmail.com**.
+- 🤍 Hincha del Real Madrid 
 
 ---
 
@@ -27,10 +28,6 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
 ---
 
 ### 📈 Lenguajes más usados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.api/api?username=paulcc18&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulcc18&theme=radical" alt="Racha en GitHub" />
