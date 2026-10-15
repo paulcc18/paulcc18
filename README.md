@@ -9,7 +9,7 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
 - 🔭 Actualmente estoy estudiando en **Universidad Central del Ecuador**.
 - 🌱 Estoy aprendiendo sobre **Algoritmos y Almacenaje de Datos**.
 - 📫 ¿Cómo contactarme? Escríbeme a **gpc1808@gmail.com**.
-- 🤍 Hincha del Real Madrid 
+- ⚽ Fan del Futbol 
 
 ---
 
