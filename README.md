@@ -32,9 +32,10 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
   <img src="https://github-readme-stats.vercel.api/api/top-langs/?username=paulcc18&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
+---
+
 > [!IMPORTANT]
 > Quiero queque.
-
 
 <img width="480" height="294" alt="giphy" src="https://github.com/user-attachments/assets/9f606f4d-a24f-44ac-9103-0a0374269296" />
 
