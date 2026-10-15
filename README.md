@@ -1,12 +1,12 @@
 # ¡Hola, soy Paul! 👋
 
-Soy un **[Tu Puesto/Rol, ej. Desarrollador Full Stack / Ingeniero de Software]** apasionado por crear soluciones eficientes, aprender nuevas tecnologías y construir software de calidad. Actualmente estoy enfocado en proyectos relacionados con **[Tu especialidad, ej. React, Node.js, Python, etc.]**.
+Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas tecnologías y construir software de calidad. Actualmente estoy enfocado en proyectos relacionados con Java.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto o empresa actual]**.
+- 🔭 Actualmente estoy estudiando en **[Universidad Central del Ecuador]**.
 - 🌱 Estoy aprendiendo sobre **[Tecnología o habilidad que estés estudiando]**.
 - 👯 Busco colaborar en proyectos de código abierto relacionados con **[Área de interés]**.
 - 💬 Pregúntame sobre **[Tema en el que seas experto, ej. JavaScript, APIs REST, Bases de Datos]**.
