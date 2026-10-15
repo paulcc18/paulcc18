@@ -38,7 +38,9 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
 > [!IMPORTANT]
 > Fan de los Animales.
 
+<p align="center">
 <img width="480" height="294" alt="giphy" src="https://github.com/user-attachments/assets/9f606f4d-a24f-44ac-9103-0a0374269296" />
+</p>
 
 <!--
 **paulcc18/paulcc18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
