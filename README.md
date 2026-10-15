@@ -7,10 +7,8 @@ Soy un estudiante apasionado por crear soluciones eficientes, aprender nuevas te
 ### 🚀 Sobre mí
 
 - 🔭 Actualmente estoy estudiando en **Universidad Central del Ecuador**.
-- 🌱 Estoy aprendiendo sobre **[Tecnología o habilidad que estés estudiando]**.
-- 👯 Busco colaborar en proyectos de código abierto relacionados con **[Área de interés]**.
-- 💬 Pregúntame sobre **[Tema en el que seas experto, ej. JavaScript, APIs REST, Bases de Datos]**.
-- 📫 ¿Cómo contactarme? Escríbeme a **[tu-correo@email.com]** o contáctame en [LinkedIn](https://linkedin.com/in/tu-usuario).
+- 🌱 Estoy aprendiendo sobre **Algoritmos y Almacenaje de Datos**.
+- 📫 ¿Cómo contactarme? Escríbeme a **gpc1808@gmail.com**.
 
 ---
 
