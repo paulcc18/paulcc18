@@ -4,6 +4,7 @@
 🤔 Ingeniería en Sistemas\
 🌱 Cursando Cuarto y Quinto Semestre\
 
+
 <img width="480" height="294" alt="giphy" src="https://github.com/user-attachments/assets/9f606f4d-a24f-44ac-9103-0a0374269296" />
 
 <!--
