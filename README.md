@@ -1,6 +1,8 @@
 ## Hola Mundo 👋
 ⚡ Estudiante de la UCE\
-🌱 Cursando Cuarto y Quinto Semestre 
+🤔 Estudiante de Ingeniería en Sistemas\
+🌱 Cursando Cuarto y Quinto Semestre
+
 
 
 
