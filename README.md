@@ -1,10 +1,10 @@
+
 ## Hola Mundo 👋
 ⚡ Estudiante de la UCE\
 🤔 Ingeniería en Sistemas\
 🌱 Cursando Cuarto y Quinto Semestre\
 
-![Perrito](https://giphy.com/gifs/what-confused-question-nIHzyvEoIjD0DenFZq)
-
+<img width="480" height="294" alt="giphy" src="https://github.com/user-attachments/assets/9f606f4d-a24f-44ac-9103-0a0374269296" />
 
 <!--
 **paulcc18/paulcc18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
