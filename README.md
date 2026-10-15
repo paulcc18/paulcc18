@@ -1,4 +1,6 @@
 ## Hi there 👋
+Estudiante de la PUCE 
+Miembro de la CPC
 
 <!--
 **paulcc18/paulcc18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
